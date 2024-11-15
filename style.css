@@ -240,7 +240,7 @@ ul a:hover::before ,.element:hover::before, .active::before{
     }
 }
 
-/* @media only screen and (min-width: 800px) {
+* @media only screen and (min-width: 800px) {
     .about{
         margin-top: 2rem;
     }
@@ -254,14 +254,14 @@ ul a:hover::before ,.element:hover::before, .active::before{
     .about{
         margin-top: 9rem;
     }
-} */
-/* @media only screen and (min-width: 1300px) {
+} 
+* @media only screen and (min-width: 1300px) {
     .about{
         margin-top: 12rem;
         
     }
 } */
-/* @media only screen and (min-width: 1400px) {
+* @media only screen and (min-width: 1400px) {
     .about{
         margin-top: 15rem;
     }
